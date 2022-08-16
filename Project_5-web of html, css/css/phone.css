@@ -1,0 +1,19 @@
+/* navigation */
+#home{
+
+}
+/* services section */
+#services{
+    flex-direction: column;
+}
+
+#services.box{
+
+}
+/* cleint section */
+#cleints{
+    overflow: hidden;
+}
+/* contact section */
+
+/* footer */
